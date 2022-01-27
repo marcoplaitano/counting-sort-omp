@@ -113,7 +113,7 @@ Take a look at the [dependencies] required to run the script.
 ./scripts/measures.sh [OPTION]...
 ```
 
-#### Options and Parameters for measures.sh
+#### Options and Parameters for Measures
 
 The script supports the definition of various options and/or parameters via
 command line arguments.
@@ -159,7 +159,7 @@ launch the following script.
 ./scripts/test.sh [OPTION]...
 ```
 
-#### Options and Parameters for test.sh
+#### Options and Parameters for Test
 
 The script supports the definition of various options and/or parameters via
 command line arguments.
@@ -245,20 +245,12 @@ scripts/measures.sh
 "Repository file"
 
 [told otherwise]:
-#options-and-parameters-for-measures.sh
+#options-and-parameters-for-measures
 "Anchor to header"
 
 [Python script]:
 scripts/evaluate.py
 "Repository file"
-
-[Result table example]:
-table.png
-"Image"
-
-[Speedup plot example]:
-plot_speedup.jpg
-"Image"
 
 [dependencies]:
 #dependencies
